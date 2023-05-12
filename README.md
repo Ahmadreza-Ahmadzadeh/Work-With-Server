@@ -1,6 +1,6 @@
 # work_with_server
 
-A new Flutter project.
+In this project, the DIO package is used to send and receive information with the server (post & get).
 
 ## Getting Started
 
